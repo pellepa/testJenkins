@@ -1,0 +1,9 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+TP-Test,fr.rouen.mastergil.tptest,Money,0,47,0,4,0,17,0,9,0,7
+TP-Test,fr.rouen.mastergil.tptest,BankAccountWithDAO,0,106,0,4,0,28,0,10,0,8
+TP-Test,fr.rouen.mastergil.tptest,Devise,0,64,0,0,0,7,0,1,0,1
+TP-Test,fr.rouen.mastergil.tptest,BankAccount,0,58,0,0,0,11,0,7,0,7
+TP-Test,fr.rouen.mastergil.tptest.bonus,StringManipulation,50,249,0,34,11,40,1,22,1,5
+TP-Test,fr.rouen.mastergil.tptest.meteo,Prevision,0,90,0,0,0,20,0,14,0,14
+TP-Test,fr.rouen.mastergil.tptest.meteo,StationMeteo,0,30,0,2,0,9,0,4,0,3
+TP-Test,fr.rouen.mastergil.tptest.meteo,OpenWeatherMapProvider,1,160,0,4,1,33,0,4,0,2

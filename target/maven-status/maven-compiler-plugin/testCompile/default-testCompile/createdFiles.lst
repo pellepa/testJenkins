@@ -1,0 +1,8 @@
+fr\rouen\mastergil\tptest\BankAccountUnitTest.class
+fr\rouen\mastergil\tptest\BankAccountWithDAOUnitTest.class
+fr\rouen\mastergil\tptest\MoneyUnitTest.class
+fr\rouen\mastergil\tptest\meteo\StationMeteoUnitTest.class
+fr\rouen\mastergil\tptest\meteo\PrevisionUnitTest.class
+fr\rouen\mastergil\tptest\bonus\StringManipulationTest.class
+fr\rouen\mastergil\tptest\meteo\OpenWeatherMapProviderIntegrationTest.class
+fr\rouen\mastergil\tptest\meteo\StationMeteoIntegrationTest.class
